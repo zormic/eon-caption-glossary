@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -67,10 +67,14 @@
       "id": "mup",
       "aliases": [
         "MUP",
-        "Ministarstvo unutrašnjih poslova"
+        "MUP-a",
+        "MUP-u",
+        "MUP-om",
+        "Ministarstvo unutrašnjih poslova",
+        "Ministarstva unutrašnjih poslova"
       ],
-      "italian": "Ministero dell’interno",
-      "condition": "Serbian institution when Serbian context is established. Do not invent an Italian institution."
+      "italian": "Ministero dell’Interno serbo (MUP)",
+      "condition": "Serbian institution: translate the name, not just unexplained MUP. First mention in the available context: Italian explanation and original acronym; later il ministero or MUP if clear. Do not invent an Italian acronym or substitute the Italian ministry. Use the actual country if context refers to another country."
     },
     {
       "id": "rik",
@@ -612,6 +616,42 @@
       ],
       "italian": "agricoltore / contadino",
       "condition": "Serbian common noun for a farmer, never a proper name or untranslated Serbian word. Translate inflections naturally: protest paora = protesta degli agricoltori; paori = agricoltori. Use contadino where rural life fits. Do not add a derogatory meaning. Adjectives: agricolo or dei contadini according to context."
+    },
+    {
+      "id": "putevi-srbije",
+      "aliases": [
+        "Putevi Srbije",
+        "Puteva Srbije",
+        "Putevima Srbije"
+      ],
+      "italian": "la società stradale serba «Strade di Serbia»",
+      "condition": "Refers to the company managing Serbian state roads. Translate the descriptive name, never leave only Putevi Srbije. Original name may follow for identification. Later use la società stradale when unambiguous. Ordinary roads in Serbia are le strade della Serbia, not automatically the company.",
+      "source": "https://www.putevi-srbije.rs/images/pdf/regulativa/statutes.pdf"
+    },
+    {
+      "id": "koridori-srbije",
+      "aliases": [
+        "Koridori Srbije",
+        "Koridora Srbije",
+        "Koridorima Srbije"
+      ],
+      "italian": "la società «Corridoi di Serbia»",
+      "condition": "Company developing road infrastructure, distinct from Putevi Srbije. Translate its descriptive name; if useful explain società per le infrastrutture stradali. Original name only for identification. Do not confuse the company with a particular transport corridor or invent an Italian official corporate name.",
+      "source": "https://www.koridorisrbije.rs/site/content/media/img/files/RLRF_Rev_10%20%2814_01_2020%29%20CC.pdf.pdf"
+    },
+    {
+      "id": "public-enterprise-descriptive",
+      "aliases": [
+        "javno preduzeće",
+        "javnog preduzeća",
+        "javnom preduzeću",
+        "javna preduzeća",
+        "državno preduzeće",
+        "državna preduzeća"
+      ],
+      "italian": "impresa pubblica / società statale",
+      "condition": "Translate descriptive Serbian public-company and institution names into intelligible Italian. Preserve identity; add original name/acronym only if useful. Use established Italian acronyms where available, otherwise original acronym after explanation. Never invent a ministry, corporate function or Italian equivalent. Media brands follow their separate rules.",
+      "source": ""
     }
   ]
 }
