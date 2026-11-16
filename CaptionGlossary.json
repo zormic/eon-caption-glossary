@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -161,6 +161,177 @@
       ],
       "italian": "atto d’accusa",
       "condition": "An accusation, not proof of guilt or conviction."
+    },
+    {
+      "id": "programme-18",
+      "aliases": [
+        "Novi dan"
+      ],
+      "italian": "Novi dan",
+      "condition": "Title on N1. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://n1info.rs/tv-emisije/"
+    },
+    {
+      "id": "programme-19",
+      "aliases": [
+        "N1 Studio Live"
+      ],
+      "italian": "N1 Studio Live",
+      "condition": "Title on N1. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://n1info.rs/tv-emisije/"
+    },
+    {
+      "id": "programme-20",
+      "aliases": [
+        "Marker"
+      ],
+      "italian": "Marker",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-21",
+      "aliases": [
+        "Svet i mi"
+      ],
+      "italian": "Svet i mi",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-22",
+      "aliases": [
+        "Tabu"
+      ],
+      "italian": "Tabu",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-23",
+      "aliases": [
+        "3D - Nova dimenzija dana"
+      ],
+      "italian": "3D - Nova dimenzija dana",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-24",
+      "aliases": [
+        "Marka Žvaka"
+      ],
+      "italian": "Marka Žvaka",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-25",
+      "aliases": [
+        "Intervju dana"
+      ],
+      "italian": "Intervju dana",
+      "condition": "Title on Insajder. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://insajder.net/program"
+    },
+    {
+      "id": "programme-26",
+      "aliases": [
+        "Među nama"
+      ],
+      "italian": "Među nama",
+      "condition": "Title on Nova S. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://nova.rs/emisije"
+    },
+    {
+      "id": "programme-27",
+      "aliases": [
+        "Probudi se"
+      ],
+      "italian": "Probudi se",
+      "condition": "Title on Nova S. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://nova.rs/emisije"
+    },
+    {
+      "id": "programme-28",
+      "aliases": [
+        "Mentalno razgibavanje"
+      ],
+      "italian": "Mentalno razgibavanje",
+      "condition": "Title on Nova S. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://nova.rs/emisije"
+    },
+    {
+      "id": "programme-29",
+      "aliases": [
+        "Pokreni se"
+      ],
+      "italian": "Pokreni se",
+      "condition": "Title on Nova S. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://nova.rs/emisije"
+    },
+    {
+      "id": "programme-30",
+      "aliases": [
+        "Oko"
+      ],
+      "italian": "Oko",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-31",
+      "aliases": [
+        "Oko magazin"
+      ],
+      "italian": "Oko magazin",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-32",
+      "aliases": [
+        "Beogradska hronika"
+      ],
+      "italian": "Beogradska hronika",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-33",
+      "aliases": [
+        "Slagalica"
+      ],
+      "italian": "Slagalica",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-34",
+      "aliases": [
+        "Potera"
+      ],
+      "italian": "Potera",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-35",
+      "aliases": [
+        "Jutarnji program"
+      ],
+      "italian": "Jutarnji program",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "programme-36",
+      "aliases": [
+        "Dnevnik 2"
+      ],
+      "italian": "Dnevnik 2",
+      "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
+      "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
     }
   ]
 }
