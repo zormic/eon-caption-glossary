@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -516,6 +516,83 @@
       "italian": "«Ćacilend»",
       "condition": "Nickname for the protest/counterprotest camp in central Belgrade, not a country or official place name. Keep nickname; do not infer current existence.",
       "source": "https://n1info.rs/vesti/vlast-je-ipak-najveci-blokader-sendvici-rostilj-agresija-i-aco-srbine/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "dif-faculty",
+      "aliases": [
+        "DIF",
+        "DIF-a",
+        "DIF-u",
+        "DIF-om",
+        "Difa",
+        "Difu",
+        "Fakultet sporta i fizičkog vaspitanja"
+      ],
+      "italian": "Facoltà di Scienze motorie",
+      "condition": "In Serbian university/sport context DIF denotes the sport/physical education faculty. Never Direzione. Graduated from DIF: si è laureato in Scienze motorie. Do not invent a city; historical institute context may require a historical name.",
+      "source": "https://fsfv.bg.ac.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "dekan",
+      "aliases": [
+        "dekan",
+        "dekana",
+        "dekanu",
+        "dekanom",
+        "dekani",
+        "dekanka",
+        "dekanke",
+        "dekanica"
+      ],
+      "italian": "preside di facoltà",
+      "condition": "Academic head of a faculty, not rettore (university rector), direzione (management) or direttore di dipartimento. Dekan DIF-a: il preside della Facoltà di Scienze motorie. Preserve gender/person when known.",
+      "source": "https://www.treccani.it/vocabolario/preside/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "weekly-vreme",
+      "aliases": [
+        "nedeljnik Vreme",
+        "nedeljnika Vreme",
+        "nedeljniku Vreme",
+        "Vreme",
+        "Vremena",
+        "Vremenu"
+      ],
+      "italian": "il settimanale Vreme",
+      "condition": "Only when referring to the publication: translate descriptor nedeljnik as settimanale, preserve Vreme as title. Ordinary vreme remains tempo/meteo as context requires. Do not infer publication from the word alone.",
+      "source": "https://vreme.com/tag/nedeljnik-vreme/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "weekly-nedeljnik",
+      "aliases": [
+        "nedeljnik",
+        "nedeljnika",
+        "nedeljniku",
+        "nedeljnici",
+        "nedeljnike"
+      ],
+      "italian": "settimanale; il settimanale Nedeljnik",
+      "condition": "Generic publication type nedeljnik means settimanale and must be translated, including nedeljnik Vreme = il settimanale Vreme. Only when Nedeljnik is the actual magazine title preserve it: il settimanale Nedeljnik. Capitalization alone is insufficient.",
+      "source": "https://www.nedeljnik.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "editor-role",
+      "aliases": [
+        "urednik",
+        "urednika",
+        "uredniku",
+        "urednica",
+        "glavni urednik",
+        "glavni i odgovorni urednik"
+      ],
+      "italian": "redattore / direttore responsabile",
+      "condition": "Generic editor: redattore or curatore by function. Editor-in-chief/head of publication: direttore; glavni i odgovorni urednik: direttore responsabile. Do not promote every urednik to director without context.",
+      "source": "https://vreme.com/tag/nedeljnik-vreme/",
       "reviewed": "2026-11-16"
     }
   ]
