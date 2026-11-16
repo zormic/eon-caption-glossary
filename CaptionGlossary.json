@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -594,6 +594,24 @@
       "condition": "Generic editor: redattore or curatore by function. Editor-in-chief/head of publication: direttore; glavni i odgovorni urednik: direttore responsabile. Do not promote every urednik to director without context.",
       "source": "https://vreme.com/tag/nedeljnik-vreme/",
       "reviewed": "2026-11-16"
+    },
+    {
+      "id": "paor",
+      "aliases": [
+        "paor",
+        "paora",
+        "paoru",
+        "paorom",
+        "paori",
+        "paore",
+        "paorima",
+        "paorski",
+        "paorska",
+        "paorske",
+        "paorskih"
+      ],
+      "italian": "agricoltore / contadino",
+      "condition": "Serbian common noun for a farmer, never a proper name or untranslated Serbian word. Translate inflections naturally: protest paora = protesta degli agricoltori; paori = agricoltori. Use contadino where rural life fits. Do not add a derogatory meaning. Adjectives: agricolo or dei contadini according to context."
     }
   ]
 }
