@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -332,6 +332,186 @@
       "italian": "Dnevnik 2",
       "condition": "Title on RTS. Preserve only when explicitly referring to the programme or supported by programme metadata. Translate ordinary uses normally. Never insert the title into unrelated speech.",
       "source": "https://www.rts.rs/lat/rts/rts-predstavlja/najnovije/5985650/prvi-program-rts-a-najgledaniji-i-u-junu-oko-1900000-gledalaca-svakoga-dana.html"
+    },
+    {
+      "id": "politics-sns",
+      "aliases": [
+        "SNS",
+        "SNS-a",
+        "Srpska napredna stranka"
+      ],
+      "italian": "Partito progressista serbo (SNS)",
+      "condition": "Party name, not a description of progressive ideology. Do not infer current governing status.",
+      "source": "https://www.rik.parlament.gov.rs/tekst/sr/101/politicke-stranke.php",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-sps",
+      "aliases": [
+        "SPS",
+        "Socijalistička partija Srbije"
+      ],
+      "italian": "Partito socialista serbo (SPS)",
+      "condition": "Party name; no assumed current coalition or officeholder.",
+      "source": "https://www.rik.parlament.gov.rs/tekst/sr/101/politicke-stranke.php",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-biracki",
+      "aliases": [
+        "birački spisak",
+        "biračkog spiska"
+      ],
+      "italian": "registro elettorale",
+      "condition": "Register of eligible voters, distinct from a party candidate list.",
+      "source": "https://mduls.gov.rs/registri/jedinstveni-biracki-spisak/?script=lat",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-lista",
+      "aliases": [
+        "izborna lista",
+        "izborne liste"
+      ],
+      "italian": "lista elettorale",
+      "condition": "List of candidates, not the electoral register or ballot paper.",
+      "source": "https://www.rik.parlament.gov.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-listic",
+      "aliases": [
+        "glasački listić",
+        "birački listić"
+      ],
+      "italian": "scheda elettorale",
+      "condition": "Paper or form used to cast a vote, not a list of voters.",
+      "source": "https://www.rik.parlament.gov.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-biracki-odbor",
+      "aliases": [
+        "birački odbor",
+        "biračkog odbora"
+      ],
+      "italian": "ufficio elettorale di seggio",
+      "condition": "Polling station body, distinct from national RIK.",
+      "source": "https://www.rik.parlament.gov.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-mandat",
+      "aliases": [
+        "poslanički mandat",
+        "poslaničkih mandata"
+      ],
+      "italian": "seggio parlamentare / mandato parlamentare",
+      "condition": "Seats when counting results; mandate when referring to term or authority.",
+      "source": "https://www.rik.parlament.gov.rs/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-studentska",
+      "aliases": [
+        "studentska lista",
+        "studentske liste"
+      ],
+      "italian": "lista degli studenti",
+      "condition": "Electoral list supported by student movement, not an attendance register. Do not infer election results.",
+      "source": "https://n1info.rs/vesti/studenti-lista-250-kandidata-spremna-tehnicki-takticki-objavljivanje/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-jtok",
+      "aliases": [
+        "JTOK",
+        "TOK",
+        "tužilaštvo za organizovani kriminal"
+      ],
+      "italian": "procura serba per la criminalità organizzata",
+      "condition": "Serbian prosecution body only; TOK can also be ordinary tok (flow), which must be translated normally.",
+      "source": "https://www.tok.jt.rs/html_tok/saopstenja_lat.htm",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-predistrazni",
+      "aliases": [
+        "predistražni postupak",
+        "predistražnog postupka"
+      ],
+      "italian": "accertamenti preliminari",
+      "condition": "Serbian procedural stage; not a conviction and not automatically an exact Italian procedural category.",
+      "source": "https://www.tok.jt.rs/html_tok/saopstenja_lat.htm",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-osumnjiceni",
+      "aliases": [
+        "osumnjičeni",
+        "osumnjičenog",
+        "osumnjičenih"
+      ],
+      "italian": "sospettato / indagato",
+      "condition": "Preserve procedural status and uncertainty; never render as guilty or convicted.",
+      "source": "https://www.tok.jt.rs/html_tok/saopstenja_lat.htm",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-krivicna",
+      "aliases": [
+        "krivična prijava",
+        "krivične prijave"
+      ],
+      "italian": "denuncia penale",
+      "condition": "A report of an alleged offence; not a conviction or automatically a confirmed indictment.",
+      "source": "https://www.tok.jt.rs/html_tok/saopstenja_lat.htm",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-nadstresnica",
+      "aliases": [
+        "nadstrešnica",
+        "nadstrešnice"
+      ],
+      "italian": "pensilina",
+      "condition": "Physical canopy; in Novi Sad station context pensilina della stazione. Do not invent causes or responsibility.",
+      "source": "https://n1info.rs/vesti/vlast-je-ipak-najveci-blokader-sendvici-rostilj-agresija-i-aco-srbine/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-blokaderi",
+      "aliases": [
+        "blokaderi",
+        "blokadera"
+      ],
+      "italian": "manifestanti dei blocchi / «blokaderi»",
+      "condition": "Political label for people involved in blockades. Preserve speaker attribution and derogatory tone when present; no invented criminal status.",
+      "source": "https://n1info.rs/vesti/vlast-je-ipak-najveci-blokader-sendvici-rostilj-agresija-i-aco-srbine/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-caci",
+      "aliases": [
+        "ćaci",
+        "ćacija",
+        "ćacima"
+      ],
+      "italian": "«ćaci»",
+      "condition": "Colloquial derisive political label; when supported by context briefly gloss as sostenitori del potere. Not ordinary schoolchildren; do not endorse the insult.",
+      "source": "https://n1info.rs/vesti/vlast-je-ipak-najveci-blokader-sendvici-rostilj-agresija-i-aco-srbine/",
+      "reviewed": "2026-11-16"
+    },
+    {
+      "id": "politics-cacilend",
+      "aliases": [
+        "Ćacilend",
+        "Ćacilenda"
+      ],
+      "italian": "«Ćacilend»",
+      "condition": "Nickname for the protest/counterprotest camp in central Belgrade, not a country or official place name. Keep nickname; do not infer current existence.",
+      "source": "https://n1info.rs/vesti/vlast-je-ipak-najveci-blokader-sendvici-rostilj-agresija-i-aco-srbine/",
+      "reviewed": "2026-11-16"
     }
   ]
 }
