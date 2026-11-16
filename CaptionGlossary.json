@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "dan-uzivo",
+      "aliases": [
+        "Dan uživo"
+      ],
+      "italian": "Dan uživo",
+      "condition": "N1 programme title. Preserve the complete title. For ostanite uz Dan uživo: Restate con noi a «Dan uživo». Not a person named Dan."
+    },
+    {
+      "id": "utisak",
+      "aliases": [
+        "Utisak nedelje"
+      ],
+      "italian": "Utisak nedelje",
+      "condition": "Programme title: preserve as a proper name, not a literal description."
+    },
+    {
+      "id": "n1",
+      "aliases": [
+        "N1"
+      ],
+      "italian": "N1",
+      "condition": "Television channel name; preserve."
+    },
+    {
+      "id": "skupstina",
+      "aliases": [
+        "Narodna skupština",
+        "Narodne skupštine"
+      ],
+      "italian": "Parlamento serbo",
+      "condition": "Only when referring to the Serbian national legislature, not a municipal assembly."
+    },
+    {
+      "id": "ustavni",
+      "aliases": [
+        "Ustavni sud",
+        "Ustavnog suda"
+      ],
+      "italian": "Corte costituzionale",
+      "condition": "State constitutional court; preserve the country if established."
+    },
+    {
+      "id": "tuzilastvo",
+      "aliases": [
+        "tužilaštvo",
+        "tužilaštva",
+        "tužilac",
+        "tužioca"
+      ],
+      "italian": "procura / pubblico ministero",
+      "condition": "Institution: procura. Prosecutor: pubblico ministero. Never substitute tribunale."
+    },
+    {
+      "id": "vlada",
+      "aliases": [
+        "Vlada Srbije",
+        "Vlade Srbije"
+      ],
+      "italian": "governo serbo",
+      "condition": "National executive, not parliament; keep distinction between proposed and approved measures."
+    },
+    {
+      "id": "mup",
+      "aliases": [
+        "MUP",
+        "Ministarstvo unutrašnjih poslova"
+      ],
+      "italian": "Ministero dell’interno",
+      "condition": "Serbian institution when Serbian context is established. Do not invent an Italian institution."
+    },
+    {
+      "id": "rik",
+      "aliases": [
+        "RIK",
+        "Republička izborna komisija"
+      ],
+      "italian": "Commissione elettorale nazionale serba",
+      "condition": "Only the Serbian electoral body; preserve acronym if needed."
+    },
+    {
+      "id": "rem",
+      "aliases": [
+        "REM",
+        "Regulatorno telo za elektronske medije"
+      ],
+      "italian": "autorità serba di regolamentazione dei media elettronici",
+      "condition": "Only the Serbian media regulator, not an unrelated use of REM."
+    },
+    {
+      "id": "bostan",
+      "aliases": [
+        "bostan",
+        "obrao",
+        "obrali"
+      ],
+      "italian": "essere nei guai",
+      "condition": "Only the idiom obrati bostan; preserve person/tense. Do not replace literal harvesting, Bosnia or basil without contextual evidence."
+    },
+    {
+      "id": "ostanite",
+      "aliases": [
+        "ostanite uz nas",
+        "ostanite sa nama"
+      ],
+      "italian": "restate con noi",
+      "condition": "Broadcast invitation to keep watching, not physical proximity."
+    },
+    {
+      "id": "prelomiti",
+      "aliases": [
+        "prelomiti preko kolena",
+        "preko kolena"
+      ],
+      "italian": "decidere in modo affrettato",
+      "condition": "Only figurative rushed decisions, not literal knee injuries."
+    },
+    {
+      "id": "pranje",
+      "aliases": [
+        "pranje novca"
+      ],
+      "italian": "riciclaggio di denaro",
+      "condition": "Financial crime, not literal washing."
+    },
+    {
+      "id": "vrsilac",
+      "aliases": [
+        "vršilac dužnosti",
+        "vršioca dužnosti"
+      ],
+      "italian": "facente funzione",
+      "condition": "Acting holder of the stated office; not a permanent appointment."
+    },
+    {
+      "id": "poslanik",
+      "aliases": [
+        "narodni poslanik",
+        "narodnih poslanika"
+      ],
+      "italian": "deputato / deputati",
+      "condition": "Members of national parliament, not diplomats."
+    },
+    {
+      "id": "pritvor",
+      "aliases": [
+        "pritvor",
+        "pritvora"
+      ],
+      "italian": "custodia cautelare",
+      "condition": "Pretrial detention, not a conviction or sentence."
+    },
+    {
+      "id": "optuznica",
+      "aliases": [
+        "optužnica",
+        "optužnice"
+      ],
+      "italian": "atto d’accusa",
+      "condition": "An accusation, not proof of guilt or conviction."
+    }
+  ]
+}
