@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "entries": [
     {
       "id": "dan-uzivo",
@@ -415,11 +415,16 @@
       "id": "politics-studentska",
       "aliases": [
         "studentska lista",
-        "studentske liste"
+        "studentske liste",
+        "studentskoj listi",
+        "studentsku listu",
+        "studentskom listom",
+        "studentskih lista",
+        "studentskim listama"
       ],
-      "italian": "lista degli studenti",
-      "condition": "Electoral list supported by student movement, not an attendance register. Do not infer election results.",
-      "source": "https://n1info.rs/vesti/studenti-lista-250-kandidata-spremna-tehnicki-takticki-objavljivanje/",
+      "italian": "Lista studentesca",
+      "condition": "In Serbian electoral politics this is a political list: render the name in Italian as Lista studentesca, never leave Studentska lista in Serbian. Preserve grammatical number and attribution. This is not a television programme title or an attendance register. Do not infer election results.",
+      "source": "https://www.ansa.it/nuova_europa/it/notizie/nazioni/serbia/2026/09/15/in-serbia-il-movimento-studentesco-si-costituisce-come-lista-elettorale_47d28f35-c165-48ab-8fbe-fdd1b9ab7f2d.html",
       "reviewed": "2026-11-16"
     },
     {
